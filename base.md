@@ -104,10 +104,11 @@ class: title
 
 ---
 <!--
-class: title
+class: slides
 -->
 ![bg](images/bg_palmu.png)
-### GitHub
+- GitHub
 https://github.com/yamagucci/marp_introduction
 
-
+- 参考
+https://qiita.com/tomo_makes/items/aafae4021986553ae1d8
