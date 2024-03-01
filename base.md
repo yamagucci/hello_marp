@@ -102,5 +102,12 @@ class: title
 ![bg](images/bg_palmu.png)
 ### ご清聴ありがとうございました
 
+---
+<!--
+class: title
+-->
+![bg](images/bg_palmu.png)
+### GitHub
+https://github.com/yamagucci/marp_introduction
 
 
